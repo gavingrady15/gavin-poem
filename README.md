@@ -1,2 +1,10 @@
 # gavin-poem
-school thing
+Sky
+is 
+Black
+Ground 
+is 
+Green
+What
+is 
+Life?
