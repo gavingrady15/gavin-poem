@@ -1,10 +1,10 @@
 # gavin-poem
 Sky
-is 
+Is 
 Black
 Ground 
-is 
+Is 
 Green
 What
-is 
+Is 
 Life?
