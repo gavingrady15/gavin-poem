@@ -11,11 +11,11 @@ Life?
 
 
 Air
-is 
+Is 
 Clear
 Worm
-is
+Is
 Red
 What
-is 
+Is 
 Death?
